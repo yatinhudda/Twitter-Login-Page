@@ -1,0 +1,17 @@
+.full-front-page{
+    display:flex;
+    height: 100vh;
+    width:100vw;
+}
+
+.left-down-view{
+    width: 45%;
+    height: 100%;
+    background-color: #8cacea;
+}
+
+.right-top-view{
+    width: 55%;
+    height: 100%;
+    background-color: #1d1d1f;
+}
