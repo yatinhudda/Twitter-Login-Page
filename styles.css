@@ -9,9 +9,27 @@
     height: 100%;
     background-color: #8cacea;
 }
+.left-down-view img{
+    height:100%;
+    width:100%;
+    object-fit : cover;
+}
 
 .right-top-view{
     width: 55%;
     height: 100%;
-    background-color: #1d1d1f;
+    background-color: #000000;
+    padding: 30px;
+}
+
+.happening-header{
+    color:rgb(221, 213, 213);
+    font-family: sans-serif;
+    font-size: 2.5em;
+}
+
+.join-header{
+    color:rgb(221, 213, 213);
+    font-family: sans-serif;
+    font-size: 1.5em;
 }
